@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-    This is the second project through React 01
+    This is the second project through React 02
     </div>
   );
 }
